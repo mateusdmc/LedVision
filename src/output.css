@@ -547,6 +547,9 @@
   .bg-\[\#808080\] {
     background-color: #808080;
   }
+  .bg-\[\#C0C0C0\] {
+    background-color: #C0C0C0;
+  }
   .bg-black {
     background-color: var(--color-black);
   }
@@ -775,6 +778,9 @@
   }
   .text-\[\#00DC00\] {
     color: #00DC00;
+  }
+  .text-\[\#000\] {
+    color: #000;
   }
   .text-\[\#6e6e6e\] {
     color: #6e6e6e;
