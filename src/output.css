@@ -190,6 +190,9 @@
   .fixed {
     position: fixed;
   }
+  .static {
+    position: static;
+  }
   .right-2 {
     right: calc(var(--spacing) * 2);
   }
@@ -327,6 +330,9 @@
   }
   .ml-\[270px\] {
     margin-left: 270px;
+  }
+  .contents {
+    display: contents;
   }
   .flex {
     display: flex;
